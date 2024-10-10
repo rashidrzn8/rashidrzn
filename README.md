@@ -1,5 +1,4 @@
-<h3 align="center">👋,SIUUU!! . I'm @rashidrzn</h1>
-
+- 🌱 SIUUU!!, I'm @rashidrzn
 - 🌱 I’m interested in **Tech and Data related Projects**
 - 🌱 I’m currently learning **full-stack development and machine learning**
 
