@@ -1,4 +1,2 @@
-
-
-- 📫 How to reach me **rashidrizan8@gmail.com**
+  **https://github.com/rashidrzn8**
 
